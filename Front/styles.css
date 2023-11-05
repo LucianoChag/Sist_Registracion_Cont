@@ -1,8 +1,9 @@
 body {
-    background-color: #dbe9cc;     /* Cambiar el color de fondo */
-    
+    background-color: #05053ac7;
+    align-items: center;
+
 }
 h2 {
-    color:#1e21b8c7;
+    color:#05053ac7;
     font-family: 'Poppins', sans-serif;
 }
