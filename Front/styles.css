@@ -1,9 +1,14 @@
 body {
     background-color: #05053ac7;
-    align-items: center;
+    background: linear-gradient(to bottom, #05053ac7, #6A1B9A);
+    min-height: 100vh;
 
 }
 h2 {
     color:#05053ac7;
     font-family: 'Poppins', sans-serif;
+}
+
+#cajaPrincipal {
+    min-height: 100vh;
 }
